@@ -9,10 +9,10 @@ Interested in NLP, foundation models, and model evaluation.
 
 ## Projects
 
-- [ECG Signal Processing & Classification](#)
+- [ECG Signal Processing & Classification](https://github.com/norah-csaki/ecg-classification)
 - [Volatility Regime Classification](https://github.com/norah-csaki/spx-volatility-regime)
 - [Factor Covariance Model](https://github.com/norah-csaki/black-scholes-greeks)
-- [Law Journal PDF Scraper](#)
+- [Law Journal PDF Scraper](https://github.com/norah-csaki/law-journal-scraper)
 - [VESL VR Obstetric Emergency Simulation](#)
 
 ## Connect with me:
