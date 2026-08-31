@@ -1,16 +1,20 @@
-## Hi there 👋
+# ✦ Hi, I'm Norah ✦
 
-<!--
-**norah-csaki/norah-csaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math & Data Science/AI student at the University of Miami.
+Interested in NLP, foundation models, and model evaluation.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=py,java,r,cs,unity,git)](https://skillicons.dev)
+
+## Projects
+
+- [ECG Signal Processing & Classification](#)
+- [Volatility Regime Classification](https://github.com/norah-csaki/spx-volatility-regime)
+- [Factor Covariance Model](https://github.com/norah-csaki/black-scholes-greeks)
+- [Law Journal PDF Scraper](#)
+- [VESL VR Obstetric Emergency Simulation](#)
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norah-csaki/)
